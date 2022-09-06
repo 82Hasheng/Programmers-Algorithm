@@ -1,1 +1,3 @@
-# level1 풀이법
+# Level1
+Python
+Java
